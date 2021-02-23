@@ -33,4 +33,31 @@ pywin32 - python library for windows
 
 pysimplegui - gui development easy and compact
 
+pyttsx3 - speech to text conversion module
+
+speech recogniiton - module used to recognise speech 
+
 pyqt - python qt framework
+
+JSON - javascrip object notation is used to work with json data
+
+pyjokes - usde to tell jokes
+
+os - provides interaction between system
+
+winshell - used for windows shell functionality 
+
+feedparser - help some packages to raad the feed
+
+ ctypes - provides c compatible data types
+ 
+ shuttills - provide function of higher level operation of files
+ 
+ 
+
+
+
+
+
+
+
